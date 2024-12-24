@@ -13,6 +13,7 @@
 /home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.MvcApplicationPartsAssemblyInfo.cache
 /home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.RazorAssemblyInfo.cache
 /home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.RazorAssemblyInfo.cs
+/home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.sourcelink.json
 /home/mk0n9w3/eTickets/obj/Debug/net8.0/staticwebassets.build.json
 /home/mk0n9w3/eTickets/obj/Debug/net8.0/staticwebassets.development.json
 /home/mk0n9w3/eTickets/obj/Debug/net8.0/staticwebassets/msbuild.eTickets.Microsoft.AspNetCore.StaticWebAssets.props
