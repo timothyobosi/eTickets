@@ -1,9 +1,0 @@
-/home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.csproj.AssemblyReference.cache
-/home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.GeneratedMSBuildEditorConfig.editorconfig
-/home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.AssemblyInfoInputs.cache
-/home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.AssemblyInfo.cs
-/home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.csproj.CoreCompileInputs.cache
-/home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.MvcApplicationPartsAssemblyInfo.cache
-/home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.RazorAssemblyInfo.cache
-/home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.RazorAssemblyInfo.cs
-/home/mk0n9w3/eTickets/obj/Debug/net8.0/eTickets.sourcelink.json
