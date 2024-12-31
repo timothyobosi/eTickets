@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(
         builder.Configuration.GetConnectionString("DefaultConnectionString"),
-        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnectionString"))
+        new MySqlServerVersion(new Version(8, 0, 40)) // Use your MySQL version here
     ));
 
 builder.Services.AddControllersWithViews();

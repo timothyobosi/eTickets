@@ -4,6 +4,7 @@ using eTickets.Models;
 
 namespace eTickets.Models{
     public class Cinema{
+        
         [Key]
         public int Id{get;set;}
         public string Logo {get;set;}
